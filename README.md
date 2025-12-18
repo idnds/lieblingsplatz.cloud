@@ -2,7 +2,7 @@
 
 Offizielle Dokumentation und Informationsseite für „lieblingsplatz.cloud“ – Die ELO ECM Suite als Software as a Service in der Partner Managed Cloud der id-netsolutions Digital Solutions GmbH.
 
-Die Seite wird mit **VitePress 2** erstellt und über **GitHub Pages** als Organisationsseite (`idnds.github.io`) veröffentlicht.
+Die Seite wird mit **VitePress** erstellt und über **GitHub Pages** als Organisationsseite (`idnds.github.io`) veröffentlicht.
 
 ## 📝 Inhaltsverzeichnis
 
