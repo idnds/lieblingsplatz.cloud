@@ -4,8 +4,6 @@ Offizielle Dokumentation und Informationsseite für „lieblingsplatz.cloud“ �
 
 Die Seite wird mit **VitePress 2** erstellt und über **GitHub Pages** als Organisationsseite (`idnds.github.io`) veröffentlicht.
 
----
-
 ## 📝 Inhaltsverzeichnis
 
 - [Technologien](#technologien)  
@@ -78,16 +76,12 @@ npm run docs:build
 npm run docs:serve
 ```
 
----
-
 ## Deployment
 
 - Automatisches Deployment erfolgt über GitHub Actions (`.github/workflows/deploy.yml`)  
 - Ziel: GitHub Pages Organisationsseite (`idnds.github.io`)  
 
 **Hinweis:** Die Actions übernehmen automatisch den Upload des `docs/.vitepress/dist` Verzeichnisses.
-
----
 
 ## Custom Domain
 
