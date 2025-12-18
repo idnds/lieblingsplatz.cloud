@@ -7,7 +7,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon-48x48.png' }],
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' }]
   ],
-
+  base: '/lieblingsplatz.cloud/',
   themeConfig: {
     logo: '/favicon-48x48.png',
     nav: [
