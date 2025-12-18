@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'lieblingsplatz.cloud',
+  title: 'Lieblingsplatz.cloud',
   description: 'Dokumentation & Informationen',
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon-48x48.png' }],
@@ -12,7 +12,6 @@ export default defineConfig({
   themeConfig: {
     logo: '/favicon-48x48.png',
     nav: [
-      { text: 'Start', link: '/' },
       { text: 'Erste Schritte', link: '/erste-schritte/' },
       { text: 'Gestaltung', link: '/gestaltung/' },
       { text: 'Whitepaper',
