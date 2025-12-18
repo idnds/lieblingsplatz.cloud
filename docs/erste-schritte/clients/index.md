@@ -31,11 +31,11 @@ Aktuelle Dokumentation zur [ELO App (Android)](https://docs.elo.com/user/mobile-
 ## ELO Desktop Client (Plus)
 
 ::: tip Tipp  
-Aktuelle Dokumentation zum [ELO Desktop Client (Plus)](https://docs.elo.com/user/elo-desktop-client/de-de/elo-desktop-client/).  
+Aktuelle Dokumentation zum [ELO Desktop Client (Plus)](https://docs.elo.com/user/elo-desktop-client/).  
 :::
 
 ## ELO Java Client
 
 ::: tip Tipp  
-Aktuelle Dokumentation zum [ELO Java Client](https://docs.elo.com/user/elo-java-client/de-de/elo-java-client/).  
+Aktuelle Dokumentation zum [ELO Java Client](https://docs.elo.com/user/elo-java-client/).  
 :::

@@ -29,5 +29,5 @@ Nach Eingabe deines Benutzernamens und Kennworts hast du deinen Lieblingsplatz e
 Mit diesen einfachen Schritten kannst du sofort mit der Nutzung der ELO ECM Suite beginnen und die Vorteile einer intelligenten Dokumentenverwaltung voll ausschöpfen!
 
 ::: tip  Tipp
-Aktuelle Dokumentation zum [ELO Web Client](https://docs.elo.com/user/elo-web-client/de-de/elo-web-client/).  
+Aktuelle Dokumentation zum [ELO Web Client](https://docs.elo.com/user/elo-web-client/).  
 :::
