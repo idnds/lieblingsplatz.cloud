@@ -1,3 +1,8 @@
+/* Alle fett formatierten Texte orange färben */
+strong, b {
+    color: #FF6600; /* Orangeton aus deinem Bild */
+}
+
 .home-footer-banner {
   display: flex;
   justify-content: center; /* zentriert horizontal */

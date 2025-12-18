@@ -15,6 +15,12 @@ export default defineConfig({
       { text: 'Start', link: '/' },
       { text: 'Erste Schritte', link: '/erste-schritte/' },
       { text: 'Gestaltung', link: '/gestaltung/' },
+      { text: 'Whitepaper',
+        items: [
+          { text: 'DocXtraxctor & 7zip', link: '/whitepaper/docxtractor_7zip' },
+          { text: 'Lieblingsplatz.cloud', link: '/whitepaper/lieblingsplatz' }
+        ]
+      },
       { text: 'Über uns', link: '/ueber-uns/' },
       {
         text: 'Rechtliches',
