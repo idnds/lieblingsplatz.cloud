@@ -1,7 +1,3 @@
----
-outline: false
----
-
 # Gestalte deinen Lieblingsplatz
 
 Jeder Lieblingsplatz ist anders. Du kannst ihn selbst gestalten. Wir unterstützen dich dabei.

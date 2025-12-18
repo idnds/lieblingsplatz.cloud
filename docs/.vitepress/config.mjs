@@ -7,7 +7,8 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon-48x48.png' }],
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' }]
   ],
-  base: '/lieblingsplatz.cloud/',
+  base: '/',
+  appearance: false,
   themeConfig: {
     logo: '/favicon-48x48.png',
     nav: [
@@ -23,9 +24,7 @@ export default defineConfig({
         ]
       }
     ],
-
     outline: { label: 'Auf dieser Seite' },
-
     sidebar: {
       '/erste-schritte/': [
         {
