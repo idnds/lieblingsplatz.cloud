@@ -1,6 +1,56 @@
-/* Alle fett formatierten Texte orange färben */
-strong, b {
-    color: #FF6600; /* Orangeton aus deinem Bild */
+/* -----------------------------
+   Fetter Text global orange
+-------------------------------- */
+.vp-doc strong,
+.vp-doc b {
+    color: #FF6600;
+}
+
+/* -----------------------------
+   Links im Content: neutral, NICHT fett
+-------------------------------- */
+.vp-doc a {
+    color: inherit;
+    font-weight: normal;            /* WICHTIG */
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+}
+
+/* Besuchte Links identisch */
+.vp-doc a:visited {
+    color: inherit;
+    font-weight: normal;
+}
+
+/* Hover-Effekt */
+.vp-doc a:hover {
+    text-decoration-thickness: 2px;
+}
+
+/* -----------------------------
+   Fette Hervorhebung innerhalb eines Links
+   (nur wenn explizit im Markdown so gesetzt)
+-------------------------------- */
+.vp-doc a strong,
+.vp-doc a b {
+    font-weight: bold;
+    color: #FF6600;
+}
+
+/* -----------------------------
+   Links in VitePress Textboxen (tip, info, warning, danger)
+-------------------------------- */
+.vp-doc .custom-block a {
+    color: inherit;
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+}
+
+.vp-doc .custom-block a:visited {
+    color: inherit;
 }
 
 .home-footer-banner {

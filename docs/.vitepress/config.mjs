@@ -30,6 +30,10 @@ export default defineConfig({
       }
     ],
     outline: { label: 'Auf dieser Seite' },
+      docFooter: {
+      prev: 'Vorherige Seite',
+      next: 'Nächste Seite'
+    },
     sidebar: {
       '/erste-schritte/': [
         {
